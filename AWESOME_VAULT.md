@@ -2,18 +2,26 @@
 
 > 由 Antigravity 智慧 Agent 每日定時自動蒐集、整理與提煉開源生態中的 Awesome 清單與工具。
 
-- 總收錄項目數：`10` 個
-- 最近更新時間：`2026-10-24 13:32:24`
+- 總收錄項目數：`13` 個
+- 最近更新時間：`2026-10-26 09:06:33`
 
 ---
+
+## 📅 2026-10-26 (收錄 3 項)
+
+| 專案名稱 | 🌟 Stars | 程式語言 | 簡介 | 關聯 Skill |
+| :--- | :--- | :--- | :--- | :--- |
+| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | `74028` | `General` | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | ⏳ 處理中 |
+| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) | `72231` | `General` | :books: List of awesome university courses for learning Computer Science! | ⏳ 處理中 |
+| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | `67265` | `General` | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | ⏳ 處理中 |
 
 ## 📅 2026-10-24 (收錄 3 項)
 
 | 專案名稱 | 🌟 Stars | 程式語言 | 簡介 | 關聯 Skill |
 | :--- | :--- | :--- | :--- | :--- |
-| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | `85156` | `General` | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  | ⏳ 處理中 |
-| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | `75029` | `General` | A collection of awesome things regarding React ecosystem | ⏳ 處理中 |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | `75022` | `General` | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | ⏳ 處理中 |
+| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | `85156` | `General` | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  | ✅ 已生成 |
+| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | `75029` | `General` | A collection of awesome things regarding React ecosystem | ✅ 已生成 |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | `75022` | `General` | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | ✅ 已生成 |
 
 ## 📅 2026-10-23 (收錄 4 項)
 
